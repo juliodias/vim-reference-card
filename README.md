@@ -47,6 +47,10 @@ O - Create a new line above.
 u - Like CTRL + Z  
 U - 
 
+zt -
+zz -
+zb -
+
 # Searching  
 
 f - Find the first occurrence from left to right.  
@@ -57,6 +61,7 @@ T - Find
 
 , (comma) - Go to the next occurrence.  
 ; - Go to the previous occurence.  
+. - 
 
 *(asterisk) -   
 #(hashtag) -  
