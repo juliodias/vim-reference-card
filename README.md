@@ -47,9 +47,9 @@ O - Create a new line above.
 u - Like CTRL + Z  
 U - 
 
-zt -
-zz -
-zb -
+zt - Position line in the top of screen  
+zz - Position line in the middle of screen  
+zb - Position line in the bottom of screen  
 
 # Searching  
 
@@ -96,9 +96,10 @@ wqa - Save and close all files opened.
 
 cw -  
 ci{ -  
-123gg -   
+123gg - Go to the line 123.
 
-yyp -   
+yyp - Copy and paste the current line below. 
+yyP - Copy and paste the current line above.  
 
 _Useful reference guides:_  
 https://www.vim-adventures.com (In my opinion, the best way to study Vim).
