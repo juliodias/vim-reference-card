@@ -8,7 +8,7 @@ Command - Used to run commands (normally using :).
 Visual - Used like selection, in visual mode the words are highlighted.
 
 # Vim structure:
-A file in Vim is divided with rows and columns.
+A file in Vim is divided by rows and columns.
 
 # Navigation
 h - Move to left.  
@@ -100,6 +100,8 @@ ci{ -
 
 yyp - Copy and paste the current line below. 
 yyP - Copy and paste the current line above.  
+
+daw - Delete the word below the cursor.
 
 _Useful reference guides:_  
 https://www.vim-adventures.com (In my opinion, the best way to study Vim).
