@@ -91,6 +91,7 @@ qa - Close without save all files opened.
 wqa - Save and close all files opened.  
 
 :set nu - Show line numbers in the left side.  
+:reg - Show the register with all the last 10 commands saved.
 
 # * Useful commands:  
 
@@ -101,7 +102,7 @@ ci{ -
 yyp - Copy and paste the current line below. 
 yyP - Copy and paste the current line above.  
 
-daw - Delete the word below the cursor.
+daw - Delete the word below the cursor.  
 
 _Useful reference guides:_  
 https://www.vim-adventures.com (In my opinion, the best way to study Vim).
